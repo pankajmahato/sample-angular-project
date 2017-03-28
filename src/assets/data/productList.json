@@ -1,0 +1,1061 @@
+[
+    {
+        "specifications": [
+            {
+                "key": "Ideal For",
+                "value": "women",
+                "searchable": true
+            },
+            {
+                "key": "Material",
+                "value": "Fabric",
+                "searchable": true
+            },
+            {
+                "key": "Closure",
+                "value": "Zip",
+                "searchable": true
+            },
+            {
+                "value": "Hand-held Bag",
+                "key": "Type",
+                "searchable": true
+            },
+            {
+                "key": "Bag Size",
+                "value": "Bag Size",
+                "searchable": true
+            },
+            {
+                "key": "Occasion",
+                "value": "Casual",
+                "searchable": true
+            },
+            {
+                "key": "Color",
+                "value": "Pink",
+                "searchable": true
+            },
+            {
+                "key": "Number of Pockets",
+                "value": "1",
+                "searchable": true
+            },
+            {
+                "key": "Number of Compartments",
+                "value": "2",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f0_jgm12-jg-shoppe-hand-held-bag-jgmybag1-original-imae5zb5gwdzaguv.jpeg",
+                "nodeRef": "9a8da771-9987-4319-99cc-1d021b2c9ec7"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f0_jgm12-jg-shoppe-hand-held-bag-jgmybag1-original-imae5zb5gwdzaguv.jpeg",
+                "nodeRef": "d178798c-03ae-476f-93ac-6ac2f79e4ea2"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f1_jgm12-jg-shoppe-hand-held-bag-jgmybag1-original-imae5zb5ndwcfxsf.jpeg",
+                "nodeRef": "afee4f0d-7e4e-4f6e-b2ba-862b99b6945a"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f1_jgm12-jg-shoppe-hand-held-bag-jgmybag1-original-imae5zb5ndwcfxsf.jpeg",
+                "nodeRef": "21ab281b-48b0-4b9f-8e8b-6369ca79a09c"
+            }
+        ],
+        "name": "JG Shoppe Hand-held Bag(Pink)",
+        "categories": [
+            "13"
+        ],
+        "shortdescription": "The Elegant Looks Of The Bag Will Make Add On To Your Appearance. If You Love Exclusive Fashion Accessories, Then This Bag Will Surely Appeal To You. It Also Allows Ample Space To Accommodate Daily Essentials In An Organised Manner. Made Up Of Strong Material And Good Quality Zips",
+        "available": true,
+        "size": 15,
+        "dimension": {
+            "height": 10,
+            "width": 19,
+            "depth": 6
+        },
+        "quantityAvailable": 5,
+        "retailPrice": 1235,
+        "salePrice": 515,
+        "weight": 0.4
+    },
+    {
+        "specifications": [
+            {
+                "key": "Model",
+                "value": "Bowtip",
+                "searchable": true
+            },
+            {
+                "key": "Number of Compartments",
+                "value": "2"
+            },
+            {
+                "key": "type",
+                "value": "Handbag",
+                "searchable": true
+            },
+            {
+                "key": "Bag Size",
+                "value": "medium",
+                "searchable": true
+            },
+            {
+                "key": "number of pockets",
+                "value": "1",
+                "searchable": true
+            },
+            {
+                "key": "color",
+                "value": "red"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f2_jgm12-jg-shoppe-hand-held-bag-jgmybag-original-imae5zb8hqphuxxs.jpeg",
+                "nodeRef": "b6336446-bebe-4597-b5fd-2a1745273a8b"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f2_jgm12-jg-shoppe-hand-held-bag-jgmybag-original-imae5zb8hqphuxxs.jpeg",
+                "nodeRef": "52eda6a4-967c-4710-8e3a-25c10efc4439"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f3_jgm12-jg-shoppe-hand-held-bag-jgmybag-original-imae5zb8tjv9ggst.jpeg",
+                "nodeRef": "e96346ad-838d-4f1d-910f-0e24a9abf4ac"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f3_jgm12-jg-shoppe-hand-held-bag-jgmybag-original-imae5zb8tjv9ggst.jpeg",
+                "nodeRef": "4b5077b6-6074-4b28-8bf6-ab1647c1026c"
+            }
+        ],
+        "name": "JG Shoppe Hand-held Bag",
+        "categories": [
+            "13"
+        ],
+        "shortdescription": "The Elegant Looks Of The Bag Will Make Add On To Your Appearance. If You Love Exclusive Fashion Accessories, Then This Bag Will Surely Appeal To You. It Also Allows Ample Space To Accommodate Daily Essentials In An Organised Manner. Made Up Of Strong Material And Good Quality Zips",
+        "available": true,
+        "size": 10,
+        "dimension": {
+            "height": 10,
+            "width": 19,
+            "depth": 6
+        },
+        "quantityAvailable": 5,
+        "retailPrice": 1235,
+        "salePrice": 525,
+        "weight": 0.45
+    },
+    {
+        "specifications": [
+            {
+                "key": "Number of Compartments",
+                "value": "2",
+                "searchable": true
+            },
+            {
+                "key": "Water Resistant",
+                "value": "Yes",
+                "searchable": true
+            },
+            {
+                "key": "Bag Design",
+                "value": "Plain",
+                "searchable": true
+            },
+            {
+                "value": "Medium",
+                "key": "Bag Size",
+                "searchable": true
+            },
+            {
+                "key": "Number of Pockets",
+                "value": "4",
+                "searchable": true
+            },
+            {
+                "key": "color",
+                "value": "black",
+                "searchable": true
+            },
+            {
+                "key": "material",
+                "value": "PU leather",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f4_rmsw-0069-rosemary-hand-held-bag-rmsw-0069-original-imae64pahshwf6bd.jpeg",
+                "nodeRef": "ff0a59b0-2b76-450e-8b4a-cb3349a68f20"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f4_rmsw-0069-rosemary-hand-held-bag-rmsw-0069-original-imae64pahshwf6bd.jpeg",
+                "nodeRef": "8658f363-9915-4d78-a42c-95c96bae56e2"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f5_rmsw-0069-rosemary-hand-held-bag-rmsw-0069-original-imae64pazxrnz6z9.jpeg",
+                "nodeRef": "6ccc67e9-024c-4acf-9eea-2a8af2fd6520"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f5_rmsw-0069-rosemary-hand-held-bag-rmsw-0069-original-imae64pazxrnz6z9.jpeg",
+                "nodeRef": "d5d68d5e-ec85-49c3-9a67-7ac8ddc82646"
+            }
+        ],
+        "name": "Rosemary Hand-held Bag",
+        "categories": [
+            "13"
+        ],
+        "shortdescription": "If you are looking for a simple yet stylish handbag in which to carry your everyday essentials to office, then this hand-held bag from Rosemary is sure to interest you.",
+        "available": true,
+        "size": 5,
+        "dimension": {
+            "height": 8,
+            "width": 9,
+            "depth": 3
+        },
+        "quantityAvailable": 5,
+        "retailPrice": 1249,
+        "salePrice": 499,
+        "weight": 0.4
+    },
+    {
+        "specifications": [
+            {
+                "key": "Model",
+                "value": "Bowtip",
+                "searchable": true
+            },
+            {
+                "key": "Number of Compartments",
+                "value": "2",
+                "searchable": true
+            },
+            {
+                "key": "type",
+                "value": "handbag",
+                "searchable": true
+            },
+            {
+                "key": "Bag Size",
+                "value": "Medium",
+                "searchable": true
+            },
+            {
+                "key": "Number of Pockets",
+                "value": "1",
+                "searchable": true
+            },
+            {
+                "key": "color",
+                "value": "grey",
+                "searchable": true
+            },
+            {
+                "key": "color",
+                "value": "black",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f6_tbicon65430988-jg-shoppe-hand-held-bag-bowtip-original-imae5zb6anfzme2h.jpeg",
+                "nodeRef": "e089eab9-32c0-4d03-9364-5b1c2b0ba659"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f6_tbicon65430988-jg-shoppe-hand-held-bag-bowtip-original-imae5zb6anfzme2h.jpeg",
+                "nodeRef": "0cf0233b-7bb9-4418-bf54-b7de50a9e2bc"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f7_tbicon65430988-jg-shoppe-hand-held-bag-bowtip-original-imae5zb6v5vmbwgf.jpeg",
+                "nodeRef": "c8bb5cc4-4e2e-4c0c-af66-0a5d8dc885df"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f7_tbicon65430988-jg-shoppe-hand-held-bag-bowtip-original-imae5zb6v5vmbwgf.jpeg",
+                "nodeRef": "435aa5fe-e79d-4923-bf86-075f0dc35ddb"
+            }
+        ],
+        "name": "JG Shoppe Shoulder Bag",
+        "categories": [
+            "13"
+        ],
+        "shortdescription": "Elegant , stiff and cute bag, Ideal for office purpose, made up of strong material for daily usage, Desiged as per latest requirement of end user.",
+        "available": true,
+        "size": 12,
+        "dimension": {
+            "height": 9,
+            "width": 18,
+            "depth": 6
+        },
+        "quantityAvailable": 5,
+        "retailPrice": 1235,
+        "salePrice": 495,
+        "weight": 0.45
+    },
+    {
+        "specifications": [
+            {
+                "key": "Model",
+                "value": "Bowtip",
+                "searchable": true
+            },
+            {
+                "key": "Number of Compartments",
+                "value": "2",
+                "searchable": true
+            },
+            {
+                "key": "type",
+                "value": "handbag",
+                "searchable": true
+            },
+            {
+                "key": "Bag Size",
+                "value": "Medium",
+                "searchable": true
+            },
+            {
+                "key": "Number of Pockets",
+                "value": "1",
+                "searchable": true
+            },
+            {
+                "key": "color",
+                "value": "white",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f8_tbicon65431001-jg-shoppe-hand-held-bag-bowtip-original-imae6u75vtehkb6w.jpeg",
+                "nodeRef": "6fbf4a2e-1c21-480e-b795-c3c6faf93ded"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f8_tbicon65431001-jg-shoppe-hand-held-bag-bowtip-original-imae6u75vtehkb6w.jpeg",
+                "nodeRef": "fad3c87a-a8a4-4605-986a-0e1f1742c7d4"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f9_tbicon65431001-jg-shoppe-hand-held-bag-bowtip-original-imae6u752f6ztztg.jpeg",
+                "nodeRef": "d7bae3b5-2636-49a9-838c-433675fad791"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f9_tbicon65431001-jg-shoppe-hand-held-bag-bowtip-original-imae6u752f6ztztg.jpeg",
+                "nodeRef": "415d95d5-bfc2-4fd5-a2d8-d43908b2a1de"
+            }
+        ],
+        "name": "JG Shoppe Hand-held Bag",
+        "categories": [
+            "13"
+        ],
+        "shortdescription": "Double Stitching, contemporary designs and styling, deep royal hues and intricate detailings to the very last stick are some of the reasons why you choose JG bags",
+        "available": true,
+        "dimension": {
+            "height": 10,
+            "width": 18,
+            "depth": 6
+        },
+        "size": 11,
+        "quantityAvailable": 5,
+        "retailPrice": 1235,
+        "salePrice": 539,
+        "weight": 0.45
+    },
+    {
+        "specifications": [
+            {
+                "key": "Color",
+                "value": "Cream Brown",
+                "searchable": true
+            },
+            {
+                "key": "Type",
+                "value": "Pants"
+            },
+            {
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "key": "Pattern",
+                "value": "Striped"
+            },
+            {
+                "key": "Closure",
+                "value": "Button"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f10_atpy6433beige-arrow-newyork-32-original-imaefr9w7ekbf4xx-01.jpeg",
+                "nodeRef": "eeb73708-dc77-485f-a989-a8f0cb6851f4"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f10_atpy6433beige-arrow-newyork-32-original-imaefr9w7ekbf4xx-01.jpeg",
+                "nodeRef": "bd64e767-c7dd-4bbf-90ea-0e01dff85973"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f11_atpy6433beige-arrow-newyork-32-original-imaefr9wxt5gxrj7-00.jpeg",
+                "nodeRef": "a1d47181-cac3-47b4-8426-536e1b9856e3"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f11_atpy6433beige-arrow-newyork-32-original-imaefr9wxt5gxrj7-00.jpeg",
+                "nodeRef": "a4db0813-3732-42e9-9fe7-a8d051255eab"
+            }
+        ],
+        "categories": [
+            "17"
+        ],
+        "name": "Arrow Slim Fit Men's Beige Trousers",
+        "shortdescription": "A good looking formal Trouser, Slim Fit made from polyster and viscose fabric.",
+        "available": true,
+        "size": 32,
+        "quantityAvailable": 5,
+        "retailPrice": 2299,
+        "salePrice": 1299
+    },
+    {
+        "specifications": [
+            {
+                "key": "Type",
+                "value": "Pants",
+                "searchable": true
+            },
+            {
+                "key": "Color",
+                "value": "dark grey",
+                "searchable": true
+            },
+            {
+                "key": "pattern",
+                "value": "striped",
+                "searchable": true
+            },
+            {
+                "key": "fly",
+                "value": "zipper",
+                "searchable": true
+            },
+            {
+                "key": "Closure",
+                "value": "button",
+                "searchable": true
+            },
+            {
+                "key": "Belt Loops",
+                "value": "Yes",
+                "searchable": true
+            },
+            {
+                "key": "Suitable For",
+                "value": "Western Wear",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f12_atqf6053me-brown-arrow-32-original-imaeeg43jrgbahzs-01.jpeg",
+                "nodeRef": "0f6d34c1-1e0e-4544-8726-96121116d9b6"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f12_atqf6053me-brown-arrow-32-original-imaeeg43jrgbahzs-01.jpeg",
+                "nodeRef": "5fdfea7f-9916-41c3-9404-ee3652cbd17d"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f13_atqf6053me-brown-arrow-32-original-imaeeg43nkunn4u5-00.jpeg",
+                "nodeRef": "ae058955-b93f-4fd1-ac57-cdf9a01880b5"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f13_atqf6053me-brown-arrow-32-original-imaeeg43nkunn4u5-00.jpeg",
+                "nodeRef": "58df222c-4460-4259-bd55-37590c1936e0"
+            }
+        ],
+        "categories": [
+            "17"
+        ],
+        "name": "Arrow Slim Fit Men's Beige Trousers",
+        "shortdescription": "A good looking formal Trouser, Slim Fit made from polyster and viscose fabric.",
+        "available": true,
+        "size": 33,
+        "quantityAvailable": 5,
+        "retailPrice": 2299,
+        "salePrice": 1299
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "black",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Type",
+                "value": "Pants"
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Alteration Required",
+                "value": "Yes"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Striped"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f14_atqf6070black-arrow-32-original-imaeeg43gagaydfs-00.jpeg",
+                "nodeRef": "bd2e04c6-0d4e-422c-a507-d131d4b9a37b"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f14_atqf6070black-arrow-32-original-imaeeg43gagaydfs-00.jpeg",
+                "nodeRef": "20378927-b682-4c09-8381-2c022f2cb2d4"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f15_atqf6070black-arrow-32-original-imaeeg438bus4ajr-01.jpeg",
+                "nodeRef": "b4b11919-958f-4c09-986f-c3881cee3e8a"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f15_atqf6070black-arrow-32-original-imaeeg438bus4ajr-01.jpeg",
+                "nodeRef": "4780d24a-0e15-4041-98fa-6dc0a34211b2"
+            }
+        ],
+        "categories": [
+            "17"
+        ],
+        "name": "Arrow Slim Fit Men's Beige Trousers",
+        "shortdescription": "Arrow Slim Fit Men's Beige Trousers",
+        "available": true,
+        "size": 34,
+        "quantityAvailable": 5,
+        "retailPrice": 2299,
+        "salePrice": 1299
+    },
+    {
+        "specifications": [
+            {
+                "key": "Color",
+                "value": "blue grey",
+                "searchable": true
+            },
+            {
+                "key": "Type",
+                "value": "Pants",
+                "searchable": true
+            },
+            {
+                "key": "Suitable For",
+                "value": "Western Wear",
+                "searchable": true
+            },
+            {
+                "key": "Alteration Required",
+                "value": "Yes",
+                "searchable": true
+            },
+            {
+                "key": "Pattern",
+                "value": "Striped",
+                "searchable": true
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f16_atqf6077me-blue-arrow-32-original-imaeeg43jnnpwb9f-01.jpeg",
+                "nodeRef": "bae4cc1c-e184-4e18-b703-c2467ea2a904"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f16_atqf6077me-blue-arrow-32-original-imaeeg43jnnpwb9f-01.jpeg",
+                "nodeRef": "aad36f01-d53b-4dca-b8ef-db6701373d25"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f17_atqf6077me-blue-arrow-32-original-imaeeg43s4aheg5z-00.jpeg",
+                "nodeRef": "5b626be1-64e9-428d-adc5-4cda04ee7729"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f17_atqf6077me-blue-arrow-32-original-imaeeg43s4aheg5z-00.jpeg",
+                "nodeRef": "57f57c10-e0b5-4727-9f48-5d01e8623ab9"
+            }
+        ],
+        "name": "Arrow Slim Fit Men's Beige Trousers",
+        "shortdescription": "A good looking formal Trouser, Slim Fit made from polyster and viscose fabric.",
+        "categories": [
+            "17"
+        ],
+        "available": true,
+        "size": 37,
+        "quantityAvailable": 5,
+        "retailPrice": 2299,
+        "salePrice": 1299
+    },
+    {
+        "specifications": [
+            {
+                "searchable": true,
+                "key": "color",
+                "value": "cream"
+            },
+            {
+                "searchable": true,
+                "key": "color",
+                "value": "white"
+            },
+            {
+                "searchable": true,
+                "key": "type",
+                "value": "pant"
+            },
+            {
+                "searchable": true,
+                "key": "suitable for",
+                "value": "western wear"
+            },
+            {
+                "searchable": true,
+                "key": "pattern",
+                "value": "plain"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f18_atqf6113beige-arrow-32-original-imaehdff6rsz6gzn-01.jpeg",
+                "nodeRef": "d942f2b4-b688-4c84-8291-2490d68ee0e2"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f18_atqf6113beige-arrow-32-original-imaehdff6rsz6gzn-01.jpeg",
+                "nodeRef": "22216d0a-fe65-4fe8-913f-ede954e32057"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f19_atqf6113beige-arrow-32-original-imaehdfg6hmpuvhq-00.jpeg",
+                "nodeRef": "27295fb0-3c7b-40dd-b224-844a2abc5909"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f19_atqf6113beige-arrow-32-original-imaehdfg6hmpuvhq-00.jpeg",
+                "nodeRef": "5bfc5b5a-5b46-43b7-95d3-c3f8ab7e8dd2"
+            }
+        ],
+        "name": "Arrow Slim Fit Men's Beige Trousers",
+        "categories": [
+            "17"
+        ],
+        "shortdescription": "A good looking formal Trouser, Slim Fit made from polyster and viscose fabric.",
+        "available": true,
+        "size": 39,
+        "quantityAvailable": 5,
+        "retailPrice": 2299,
+        "salePrice": 1299
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "black",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Fabric",
+                "value": "Cotton"
+            },
+            {
+                "searchable": true,
+                "key": "Regular Fit",
+                "value": "Full Sleeve"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Solid"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f20_ds001-deeksha-l-original-imaebygwgg6ewx5y-00.jpeg",
+                "nodeRef": "328378ab-583e-4bbe-8056-6b7730e00901"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f20_ds001-deeksha-l-original-imaebygwgg6ewx5y-00.jpeg",
+                "nodeRef": "d592242a-30d5-48f9-98a0-bde2d0ace741"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f21_ds001-deeksha-l-original-imaebygwrtmfs24e-01.jpeg",
+                "nodeRef": "edb64431-ea86-4a3c-b719-17b9459e854d"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f21_ds001-deeksha-l-original-imaebygwrtmfs24e-01.jpeg",
+                "nodeRef": "0b184655-1f06-41bc-8421-10c2f35b0463"
+            }
+        ],
+        "categories": [
+            "18"
+        ],
+        "name": "Deeksha Men's Solid Casual  Shirt",
+        "shortdescription": "Revamp your wardrobe with some fresh and exclusive designer wear apparels from the house of deeksha. That makes it a perfect casual pick. Flaunt your casual look with a shirt",
+        "available": true,
+        "size": 38,
+        "quantityAvailable": 5,
+        "retailPrice": 999,
+        "salePrice": 599
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "white",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Fabric",
+                "value": "Cotton"
+            },
+            {
+                "searchable": true,
+                "key": "Regular Fit",
+                "value": "Full Sleeve"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Solid"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f22_ds028-deeksha-xl-original-imaebygwepgv9ddp-01.jpeg",
+                "nodeRef": "be12d555-758c-4006-9f60-a515920ee846"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f22_ds028-deeksha-xl-original-imaebygwepgv9ddp-01.jpeg",
+                "nodeRef": "be12d555-758c-4006-9f60-a515920ee846"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f23_ds028-deeksha-xl-original-imaebygwzr5quers-00.jpeg",
+                "nodeRef": "47e068d9-1562-4f81-b363-d95a71321503"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f23_ds028-deeksha-xl-original-imaebygwzr5quers-00.jpeg",
+                "nodeRef": "47e068d9-1562-4f81-b363-d95a71321503"
+            }
+        ],
+        "categories": [
+            "18"
+        ],
+        "name": "Deeksha Men's Solid Casual  Shirt",
+        "shortdescription": "Revamp your wardrobe with some fresh and exclusive designer wear apparels from the house of deeksha. That makes it a perfect casual pick. Flaunt your casual look with a shirt",
+        "available": true,
+        "size": 36,
+        "quantityAvailable": 5,
+        "retailPrice": 999,
+        "salePrice": 599
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "red",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Fabric",
+                "value": "Cotton"
+            },
+            {
+                "searchable": true,
+                "key": "Regular Fit",
+                "value": "Full Sleeve"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Solid"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f24_ds038-deeksha-l-original-imaebygwxrsjcn6d-01.jpeg",
+                "nodeRef": "c0752ccd-1a12-4e5f-bc4c-17c9a4d0d834"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f22_ds038-deeksha-l-original-imaebygwxrsjcn6d-01.jpeg",
+                "nodeRef": "e3cb7dd7-5245-425b-bf82-e58a1dfda0c7"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f25_ds038-deeksha-s-original-imaebygwg46hev2w-00.jpeg",
+                "nodeRef": "8c1f64b1-b762-4219-b53b-685820114ed1"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f23_ds038-deeksha-s-original-imaebygwg46hev2w-00.jpeg",
+                "nodeRef": "f8c58687-f9c5-4cef-bf66-98258fafb3e1"
+            }
+        ],
+        "categories": [
+            "18"
+        ],
+        "name": "Deeksha Men's Solid Casual  Shirt",
+        "shortdescription": "Revamp your wardrobe with some fresh and exclusive designer wear apparels from the house of deeksha. That makes it a perfect casual pick. Flaunt your casual look with a shirt",
+        "available": true,
+        "size": 30,
+        "quantityAvailable": 5,
+        "retailPrice": 999,
+        "salePrice": 599
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "dark blue",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Fabric",
+                "value": "Cotton"
+            },
+            {
+                "searchable": true,
+                "key": "Regular Fit",
+                "value": "Full Sleeve"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Solid"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f26_ds038-deeksha-xl-original-imaebygwbjthppex-01.jpeg",
+                "nodeRef": "9234558a-09ca-4eef-a75e-731702cb018b"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f24_ds038-deeksha-xl-original-imaebygwbjthppex-01.jpeg",
+                "nodeRef": "258ca450-c1d0-4525-9999-850e0fcaebde"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f27_ds038-deeksha-xl-original-imaebygwzqrt992k-00.jpeg",
+                "nodeRef": "43c5972d-1b28-4d9b-9c37-f0d0308063d5"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f25_ds038-deeksha-xl-original-imaebygwzqrt992k-00.jpeg",
+                "nodeRef": "542a7dcc-9b3a-4522-8aa6-eaadf0ad73aa"
+            }
+        ],
+        "categories": [
+            "18"
+        ],
+        "name": "Deeksha Men's Solid Casual  Shirt",
+        "shortdescription": "Revamp your wardrobe with some fresh and exclusive designer wear apparels from the house of deeksha. That makes it a perfect casual pick. Flaunt your casual look with a shirt",
+        "available": true,
+        "size": 29,
+        "quantityAvailable": 5,
+        "retailPrice": 999,
+        "salePrice": 599
+    },
+    {
+        "specifications": [
+            {
+                "key": "color",
+                "value": "light blue",
+                "searchable": true
+            },
+            {
+                "searchable": true,
+                "key": "Suitable For",
+                "value": "Western Wear"
+            },
+            {
+                "searchable": true,
+                "key": "Fabric",
+                "value": "Cotton"
+            },
+            {
+                "searchable": true,
+                "key": "Regular Fit",
+                "value": "Full Sleeve"
+            },
+            {
+                "searchable": true,
+                "key": "Pattern",
+                "value": "Solid"
+            }
+        ],
+        "media": [
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f28_ds040-deeksha-l-original-imaebygwxedyx2eq-01.jpeg",
+                "nodeRef": "81923f5a-517a-40f0-b779-c3cba6cb5fd3"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": false,
+                "fileName": "f26_ds040-deeksha-l-original-imaebygwxedyx2eq-01.jpeg",
+                "nodeRef": "f6fb99b6-2e25-4804-9ce0-ee69f92035cf"
+            },
+            {
+                "isThumbnail": true,
+                "isPrimaryMedia": false,
+                "fileName": "f29_ds040-deeksha-s-original-imaebygwfzzcvtgg-00.jpeg",
+                "nodeRef": "40e64c90-08fe-41b9-8201-f3ef72550b92"
+            },
+            {
+                "isThumbnail": false,
+                "isPrimaryMedia": true,
+                "fileName": "f27_ds040-deeksha-s-original-imaebygwfzzcvtgg-00.jpeg",
+                "nodeRef": "819101b6-8e6b-4fa2-811e-47f4026f860f"
+            }
+        ],
+        "categories": [
+            "18"
+        ],
+        "name": "Deeksha Men's Solid Casual  Shirt",
+        "shortdescription": "Revamp your wardrobe with some fresh and exclusive designer wear apparels from the house of deeksha. That makes it a perfect casual pick. Flaunt your casual look with a shirt",
+        "available": true,
+        "size": 28,
+        "quantityAvailable": 5,
+        "retailPrice": 999,
+        "salePrice": 599
+    }
+]
