@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe('src/app/modules/main/servicespec.js', function() {
+  describe('PhantomJS_1_9_8_(Linux).servicespec', function() {
     beforeEach(module('gulpDemo'));
     var service;
     var getPageDetailsUrl;

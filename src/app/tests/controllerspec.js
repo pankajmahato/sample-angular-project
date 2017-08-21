@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe('src/app/modules/main/controllerspec.js', function() {
+  describe('PhantomJS_1_9_8_(Linux).controllerspec', function() {
     var vm;
 
     beforeEach(module('gulpDemo'));
