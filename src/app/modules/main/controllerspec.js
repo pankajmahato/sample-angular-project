@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe('main.controllerspec', function() {
+  describe('src/app/modules/main/controllerspec.js', function() {
     var vm;
 
     beforeEach(module('gulpDemo'));
