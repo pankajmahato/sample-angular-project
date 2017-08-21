@@ -45,7 +45,8 @@ module.exports = function(config) {
     frameworks: ['jasmine', 'angular-filesort'],
 
     angularFilesort: {
-      whitelist: [path.join(conf.paths.src, '/**/!(*.html|*.spec|*.mock).js')]
+      whitelist: [path.join(conf.paths.src,
+        '/**/!(*.html|*.spec|*.mock).js')]
     },
 
     browsers: ['PhantomJS'],
@@ -78,7 +79,7 @@ module.exports = function(config) {
       useBrowserName: false
     },
 
-    reporters: ['progress', 'junit']
+    reporters: ['progress', 'junit', 'coverage']
   };
 
   // This is the default preprocessors configuration for a usage with Karma cli

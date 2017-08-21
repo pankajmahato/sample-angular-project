@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe('MainService', function() {
+  describe('main.servicespec', function() {
     beforeEach(module('gulpDemo'));
     var service;
     var getPageDetailsUrl;
@@ -20,8 +20,9 @@
       expect(service.getPageDetails).toBeDefined();
     });
 
-    it('should have getPageDetails function return the mockResponse', function() {
-      service.getPageDetails();
-    });
+    it('should have getPageDetails function return the mockResponse',
+      function() {
+        service.getPageDetails();
+      });
   });
 })();
