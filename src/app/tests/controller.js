@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  describe('PhantomJS_1_9_8_(Linux_0_0_0).controller', function() {
+  describe('controller', function() {
     var vm;
 
     beforeEach(module('gulpDemo'));
